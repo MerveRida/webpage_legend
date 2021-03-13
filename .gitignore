@@ -1,0 +1,4 @@
+#Ignore below files
+
+/node_modules/
+/package-lock
